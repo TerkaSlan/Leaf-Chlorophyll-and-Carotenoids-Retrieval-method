@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+numpy
+tqdm
+scipy
+rasterio
+joblib
+openpyxl
+tifffile
+imagecodecs
+seaborn
